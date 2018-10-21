@@ -1,0 +1,210 @@
+e8c50dc6676e380e814c77927445ab3594382bc4,"This commit was manufactured by cvs2svn to create tag
+'release_0_2_0'.
+",scipy_distutils/__init__.py,scipy_distutils/__version__.py,scipy_distutils/command/__init__.py,scipy_distutils/command/build.py,scipy_distutils/command/build_clib.py,scipy_distutils/command/build_ext.py,scipy_distutils/command/build_flib.py,scipy_distutils/command/build_py.py,scipy_distutils/command/cpuinfo.py,scipy_distutils/command/install.py,scipy_distutils/command/install_data.py,scipy_distutils/command/install_headers.py,scipy_distutils/command/sdist.py,scipy_distutils/core.py,scipy_distutils/dist.py,scipy_distutils/fftw_info.py,scipy_distutils/mingw32_support.py,scipy_distutils/misc_util.py,scipy_distutils/setup.py,scipy_distutils/setup_scipy_distutils.py,scipy_test/__init__.py,scipy_test/scipy_test.py,scipy_test/setup.py,scipy_test/setup_scipy_test.py,weave/blitz-20001213/blitz/applics.h,weave/blitz-20001213/blitz/array.h,weave/blitz-20001213/blitz/array/asexpr.h,weave/blitz-20001213/blitz/array/cartesian.h,weave/blitz-20001213/blitz/array/cgsolve.h,weave/blitz-20001213/blitz/array/complex.cc,weave/blitz-20001213/blitz/array/convolve.cc,weave/blitz-20001213/blitz/array/convolve.h,weave/blitz-20001213/blitz/array/cycle.cc,weave/blitz-20001213/blitz/array/domain.h,weave/blitz-20001213/blitz/array/et.h,weave/blitz-20001213/blitz/array/eval.cc,weave/blitz-20001213/blitz/array/expr.h,weave/blitz-20001213/blitz/array/fastiter.h,weave/blitz-20001213/blitz/array/geometry.h,weave/blitz-20001213/blitz/array/indirect.h,weave/blitz-20001213/blitz/array/interlace.cc,weave/blitz-20001213/blitz/array/io.cc,weave/blitz-20001213/blitz/array/iter.h,weave/blitz-20001213/blitz/array/map.h,weave/blitz-20001213/blitz/array/methods.cc,weave/blitz-20001213/blitz/array/misc.cc,weave/blitz-20001213/blitz/array/multi.h,weave/blitz-20001213/blitz/array/newbops.cc,weave/blitz-20001213/blitz/array/ops.cc,weave/blitz-20001213/blitz/array/reduce.cc,weave/blitz-20001213/blitz/array/reduce.h,weave/blitz-20001213/blitz/array/resize.cc,weave/blitz-20001213/blitz/array/shape.h,weave/blitz-20001213/blitz/array/slice.h,weave/blitz-20001213/blitz/array/slicing.cc,weave/blitz-20001213/blitz/array/stencil-et.h,weave/blitz-20001213/blitz/array/stencil.cc,weave/blitz-20001213/blitz/array/stencil.h,weave/blitz-20001213/blitz/array/stencilops.h,weave/blitz-20001213/blitz/array/storage.h,weave/blitz-20001213/blitz/array/uops.cc,weave/blitz-20001213/blitz/array/where.h,weave/blitz-20001213/blitz/array/zip.h,weave/blitz-20001213/blitz/bench.cc,weave/blitz-20001213/blitz/bench.h,weave/blitz-20001213/blitz/benchext.cc,weave/blitz-20001213/blitz/benchext.h,weave/blitz-20001213/blitz/blitz.h,weave/blitz-20001213/blitz/bzdebug.h,weave/blitz-20001213/blitz/compiler.h,weave/blitz-20001213/blitz/config.h,weave/blitz-20001213/blitz/etbase.h,weave/blitz-20001213/blitz/extremum.h,weave/blitz-20001213/blitz/indexexpr.h,weave/blitz-20001213/blitz/limits-hack.h,weave/blitz-20001213/blitz/listinit.h,weave/blitz-20001213/blitz/matbops.h,weave/blitz-20001213/blitz/matdiag.h,weave/blitz-20001213/blitz/matexpr.h,weave/blitz-20001213/blitz/matgen.h,weave/blitz-20001213/blitz/mathf2.h,weave/blitz-20001213/blitz/mathfunc.h,weave/blitz-20001213/blitz/matltri.h,weave/blitz-20001213/blitz/matref.h,weave/blitz-20001213/blitz/matrix.cc,weave/blitz-20001213/blitz/matrix.h,weave/blitz-20001213/blitz/matsymm.h,weave/blitz-20001213/blitz/mattoep.h,weave/blitz-20001213/blitz/matuops.h,weave/blitz-20001213/blitz/matutri.h,weave/blitz-20001213/blitz/memblock.cc,weave/blitz-20001213/blitz/memblock.h,weave/blitz-20001213/blitz/meta/dot.h,weave/blitz-20001213/blitz/meta/matassign.h,weave/blitz-20001213/blitz/meta/matmat.h,weave/blitz-20001213/blitz/meta/matvec.h,weave/blitz-20001213/blitz/meta/metaprog.h,weave/blitz-20001213/blitz/meta/product.h,weave/blitz-20001213/blitz/meta/sum.h,weave/blitz-20001213/blitz/meta/vecassign.h,weave/blitz-20001213/blitz/minmax.h,weave/blitz-20001213/blitz/mstruct.h,weave/blitz-20001213/blitz/numinquire.h,weave/blitz-20001213/blitz/numtrait.h,weave/blitz-20001213/blitz/ops.h,weave/blitz-20001213/blitz/prettyprint.h,weave/blitz-20001213/blitz/promote-old.h,weave/blitz-20001213/blitz/promote.h,weave/blitz-20001213/blitz/rand-dunif.h,weave/blitz-20001213/blitz/rand-mt.h,weave/blitz-20001213/blitz/rand-normal.h,weave/blitz-20001213/blitz/rand-tt800.h,weave/blitz-20001213/blitz/rand-uniform.h,weave/blitz-20001213/blitz/random.h,weave/blitz-20001213/blitz/randref.h,weave/blitz-20001213/blitz/range.h,weave/blitz-20001213/blitz/reduce.h,weave/blitz-20001213/blitz/shapecheck.h,weave/blitz-20001213/blitz/tau.h,weave/blitz-20001213/blitz/timer.h,weave/blitz-20001213/blitz/tiny.h,weave/blitz-20001213/blitz/tinymat.h,weave/blitz-20001213/blitz/tinymatexpr.h,weave/blitz-20001213/blitz/tinyvec.cc,weave/blitz-20001213/blitz/tinyvec.h,weave/blitz-20001213/blitz/tinyvecio.cc,weave/blitz-20001213/blitz/tinyveciter.h,weave/blitz-20001213/blitz/traversal.cc,weave/blitz-20001213/blitz/traversal.h,weave/blitz-20001213/blitz/tuning.h,weave/blitz-20001213/blitz/tvcross.h,weave/blitz-20001213/blitz/tvecglobs.h,weave/blitz-20001213/blitz/update.h,weave/blitz-20001213/blitz/vecaccum.cc,weave/blitz-20001213/blitz/vecall.cc,weave/blitz-20001213/blitz/vecany.cc,weave/blitz-20001213/blitz/vecbfn.cc,weave/blitz-20001213/blitz/vecbops.cc,weave/blitz-20001213/blitz/veccount.cc,weave/blitz-20001213/blitz/vecdelta.cc,weave/blitz-20001213/blitz/vecdot.cc,weave/blitz-20001213/blitz/vecexpr.h,weave/blitz-20001213/blitz/vecexprwrap.h,weave/blitz-20001213/blitz/vecglobs.cc,weave/blitz-20001213/blitz/vecglobs.h,weave/blitz-20001213/blitz/vecio.cc,weave/blitz-20001213/blitz/veciter.h,weave/blitz-20001213/blitz/vecmax.cc,weave/blitz-20001213/blitz/vecmin.cc,weave/blitz-20001213/blitz/vecnorm.cc,weave/blitz-20001213/blitz/vecnorm1.cc,weave/blitz-20001213/blitz/vecpick.cc,weave/blitz-20001213/blitz/vecpick.h,weave/blitz-20001213/blitz/vecpickio.cc,weave/blitz-20001213/blitz/vecpickiter.h,weave/blitz-20001213/blitz/vecsum.cc,weave/blitz-20001213/blitz/vector.cc,weave/blitz-20001213/blitz/vector.h,weave/blitz-20001213/blitz/vecuops.cc,weave/blitz-20001213/blitz/vecwhere.cc,weave/blitz-20001213/blitz/vecwhere.h,weave/blitz-20001213/blitz/wrap-climits.h,weave/blitz-20001213/blitz/zero.cc,weave/blitz-20001213/blitz/zero.h
+f2e5fb8573178cb7a8924d57e70bf9c199034622,"changed import of fastumath as ""optional"" with a try/except clause.  This allows people without SciPy, but with Numeric to use blitz.
+",weave/blitz_tools.py,weave/size_check.py,weave/tests/test_standard_array_spec.py
+fd3855d4fecb6a962a752c8e0f5d51eb34400a5e,"refined get_version
+",scipy_distutils/__version__.py
+c1a5d613bb52d1ae45cc8bb90e056c9181cad18b,"refined get_version
+",scipy_distutils/__version__.py,scipy_distutils/misc_util.py,scipy_distutils/setup.py
+2547260e6e69c2fd4f0527ca464e9fe4612623d8,"changed insertion of stdc++ to check for msvc instead of platform == linux
+",weave/build_tools.py
+b908030c39e3c5c490540597e93c5dc4bbcd77c7,"fixed bug in tables that forced display width to certain number of pixels.
+",weave/doc/tutorial.html
+587e00a3ecd762fa58e04f7b46c29c654319f864,"Introduced get_version, started compaq_fortran_compiler
+",scipy_distutils/command/build_flib.py,scipy_distutils/misc_util.py,scipy_distutils/setup.py
+0ebec761d9cd9d48f68d8f5442519c828bcd0a2a,"added comment about single vs. double precision speed results
+",weave/doc/tutorial.html
+223f42b6e3201935e7e9304fddf798f1115de9eb,"added benchmarks
+",weave/doc/tutorial.html
+c6ca53cd5ff3671d088cb1728b40e7ff8c0c5bb6,"one final pass through before posting to python-dev
+",weave/doc/tutorial.html
+85b061626931d6aff7e589299bfae9509c8ec320,"added MANIFEST.in so that I could specify that all .txt files are included in the distribution
+",weave/MANIFEST.in
+4b8ca90a8260c3718c5b1a7460bc24e22c083b23,"added legal license information to the file.
+",weave/LICENSE.txt,weave/README.txt,weave/doc/tutorial.html,weave/wx_spec.py
+d33eb99f6e64a721e9b76fbc8fa1969bdbdc5658,"added a short README to tell where the documentation files are located
+",weave/README.txt
+a603ba140acaf24a365343c9c9b48904745e4386,"changed tempdir to gettempdir(). fixed bug introduced in latest testing frenzy
+",weave/catalog.py,weave/doc/tutorial.html,weave/tests/test_blitz_tools.py,weave/tests/test_scalar_spec.py
+b63f8e5ed4d3276640e73072fd4b074d357d45e5,"fixed get_opt for NAG compiler
+",scipy_distutils/command/build_flib.py
+424101955d2f074aa32b21ac24bad2d767936094,"fortran extension support
+",scipy_distutils/command/build.py,scipy_distutils/command/build_ext.py,scipy_distutils/command/build_flib.py,scipy_distutils/command/build_py.py,scipy_distutils/command/cpuinfo.py,scipy_distutils/dist.py,scipy_distutils/setup.py
+06d067a4c9382426c8755cdcc39c3ce2ebf38706,"changed inline() args so that arg_names defaults to an empty list.  THis allows you to run C code that doesn't need any arguments without supplying any.
+",weave/inline_tools.py
+dfa34a79638600346b06aab7d157db855d22a1ba,"fixed catalog test so that it would work if mutliple people were testing at same time or if /tmp/test_catalog could not be written.
+",weave/tests/test_catalog.py
+b4f5c98a78a4ed3ac50bae14c7d06c90b7a88a99,"fixed minor bugs
+",weave/doc/tutorial.html,weave/tests/test_blitz_tools.py,weave/tests/test_ext_tools.py
+e69d0cffe28f259a5e94ed73972e82f89be0c74d,"removed an import * at function level because 2.2 complains about it
+",weave/tests/test_ext_tools.py
+b72a5a039b8278e198563a2bbab139ade4c3fdb6,"moved test file creation to the temp directory so that it doesn't try to create files during test in a site-package sub-directory.  This caused failues on Unix for testing of installed package.
+",weave/tests/test_blitz_tools.py,weave/tests/test_scalar_spec.py
+be827bc27ad9439eaa6c5d0c59c61bfd6f638b40,"more renaming of compiler to weave
+",weave/tests/{compiler_test_utils.py
+3df2f38b39cadae298b76934f28dcea7c9824b78,"I missed changing the compiler name in __init__
+",weave/__init__.py
+4ceef2e6c852d1a805aaf73cd409b1d7246e4121,"more changes of names from compiler to weave
+",weave/examples/increment_example.py,weave/examples/py_none.py,weave/examples/vq.py,weave/setup.py,weave/{setup_compiler.py,weave/tests/test_ext_tools.py
+a15e2fa6f0ee81a8eeec84dbab7ae88cdd7ad330,"compile_code is no longer a part of weave
+",weave/tests/test_ast_tools.py,weave/tests/test_blitz_tools.py,weave/tests/test_catalog.py,weave/tests/test_compile_code.py
+6e13c0408681ef82fc5f70d002d34993f19cc659,"renaming compiler to weave
+",weave/__init__.py,weave/ast_tools.py,weave/base_info.py,weave/base_spec.py,weave/blitz-20001213/blitz/applics.h,weave/blitz-20001213/blitz/array.h,weave/blitz-20001213/blitz/array/asexpr.h,weave/blitz-20001213/blitz/array/cartesian.h,weave/blitz-20001213/blitz/array/cgsolve.h,weave/blitz-20001213/blitz/array/complex.cc,weave/blitz-20001213/blitz/array/convolve.cc,weave/blitz-20001213/blitz/array/convolve.h,weave/blitz-20001213/blitz/array/cycle.cc,weave/blitz-20001213/blitz/array/domain.h,weave/blitz-20001213/blitz/array/et.h,weave/blitz-20001213/blitz/array/eval.cc,weave/blitz-20001213/blitz/array/expr.h,weave/blitz-20001213/blitz/array/fastiter.h,weave/blitz-20001213/blitz/array/geometry.h,weave/blitz-20001213/blitz/array/indirect.h,weave/blitz-20001213/blitz/array/interlace.cc,weave/blitz-20001213/blitz/array/io.cc,weave/blitz-20001213/blitz/array/iter.h,weave/blitz-20001213/blitz/array/map.h,weave/blitz-20001213/blitz/array/methods.cc,weave/blitz-20001213/blitz/array/misc.cc,weave/blitz-20001213/blitz/array/multi.h,weave/blitz-20001213/blitz/array/newbops.cc,weave/blitz-20001213/blitz/array/ops.cc,weave/blitz-20001213/blitz/array/reduce.cc,weave/blitz-20001213/blitz/array/reduce.h,weave/blitz-20001213/blitz/array/resize.cc,weave/blitz-20001213/blitz/array/shape.h,weave/blitz-20001213/blitz/array/slice.h,weave/blitz-20001213/blitz/array/slicing.cc,weave/blitz-20001213/blitz/array/stencil-et.h,weave/blitz-20001213/blitz/array/stencil.cc,weave/blitz-20001213/blitz/array/stencil.h,weave/blitz-20001213/blitz/array/stencilops.h,weave/blitz-20001213/blitz/array/storage.h,weave/blitz-20001213/blitz/array/uops.cc,weave/blitz-20001213/blitz/array/where.h,weave/blitz-20001213/blitz/array/zip.h,weave/blitz-20001213/blitz/bench.cc,weave/blitz-20001213/blitz/bench.h,weave/blitz-20001213/blitz/benchext.cc,weave/blitz-20001213/blitz/benchext.h,weave/blitz-20001213/blitz/blitz.h,weave/blitz-20001213/blitz/bzdebug.h,weave/blitz-20001213/blitz/compiler.h,weave/blitz-20001213/blitz/config.h,weave/blitz-20001213/blitz/etbase.h,weave/blitz-20001213/blitz/extremum.h,weave/blitz-20001213/blitz/indexexpr.h,weave/blitz-20001213/blitz/limits-hack.h,weave/blitz-20001213/blitz/listinit.h,weave/blitz-20001213/blitz/matbops.h,weave/blitz-20001213/blitz/matdiag.h,weave/blitz-20001213/blitz/matexpr.h,weave/blitz-20001213/blitz/matgen.h,weave/blitz-20001213/blitz/mathf2.h,weave/blitz-20001213/blitz/mathfunc.h,weave/blitz-20001213/blitz/matltri.h,weave/blitz-20001213/blitz/matref.h,weave/blitz-20001213/blitz/matrix.cc,weave/blitz-20001213/blitz/matrix.h,weave/blitz-20001213/blitz/matsymm.h,weave/blitz-20001213/blitz/mattoep.h,weave/blitz-20001213/blitz/matuops.h,weave/blitz-20001213/blitz/matutri.h,weave/blitz-20001213/blitz/memblock.cc,weave/blitz-20001213/blitz/memblock.h,weave/blitz-20001213/blitz/meta/dot.h,weave/blitz-20001213/blitz/meta/matassign.h,weave/blitz-20001213/blitz/meta/matmat.h,weave/blitz-20001213/blitz/meta/matvec.h,weave/blitz-20001213/blitz/meta/metaprog.h,weave/blitz-20001213/blitz/meta/product.h,weave/blitz-20001213/blitz/meta/sum.h,weave/blitz-20001213/blitz/meta/vecassign.h,weave/blitz-20001213/blitz/minmax.h,weave/blitz-20001213/blitz/mstruct.h,weave/blitz-20001213/blitz/numinquire.h,weave/blitz-20001213/blitz/numtrait.h,weave/blitz-20001213/blitz/ops.h,weave/blitz-20001213/blitz/prettyprint.h,weave/blitz-20001213/blitz/promote-old.h,weave/blitz-20001213/blitz/promote.h,weave/blitz-20001213/blitz/rand-dunif.h,weave/blitz-20001213/blitz/rand-mt.h,weave/blitz-20001213/blitz/rand-normal.h,weave/blitz-20001213/blitz/rand-tt800.h,weave/blitz-20001213/blitz/rand-uniform.h,weave/blitz-20001213/blitz/random.h,weave/blitz-20001213/blitz/randref.h,weave/blitz-20001213/blitz/range.h,weave/blitz-20001213/blitz/reduce.h,weave/blitz-20001213/blitz/shapecheck.h,weave/blitz-20001213/blitz/tau.h,weave/blitz-20001213/blitz/timer.h,weave/blitz-20001213/blitz/tiny.h,weave/blitz-20001213/blitz/tinymat.h,weave/blitz-20001213/blitz/tinymatexpr.h,weave/blitz-20001213/blitz/tinyvec.cc,weave/blitz-20001213/blitz/tinyvec.h,weave/blitz-20001213/blitz/tinyvecio.cc,weave/blitz-20001213/blitz/tinyveciter.h,weave/blitz-20001213/blitz/traversal.cc,weave/blitz-20001213/blitz/traversal.h,weave/blitz-20001213/blitz/tuning.h,weave/blitz-20001213/blitz/tvcross.h,weave/blitz-20001213/blitz/tvecglobs.h,weave/blitz-20001213/blitz/update.h,weave/blitz-20001213/blitz/vecaccum.cc,weave/blitz-20001213/blitz/vecall.cc,weave/blitz-20001213/blitz/vecany.cc,weave/blitz-20001213/blitz/vecbfn.cc,weave/blitz-20001213/blitz/vecbops.cc,weave/blitz-20001213/blitz/veccount.cc,weave/blitz-20001213/blitz/vecdelta.cc,weave/blitz-20001213/blitz/vecdot.cc,weave/blitz-20001213/blitz/vecexpr.h,weave/blitz-20001213/blitz/vecexprwrap.h,weave/blitz-20001213/blitz/vecglobs.cc,weave/blitz-20001213/blitz/vecglobs.h,weave/blitz-20001213/blitz/vecio.cc,weave/blitz-20001213/blitz/veciter.h,weave/blitz-20001213/blitz/vecmax.cc,weave/blitz-20001213/blitz/vecmin.cc,weave/blitz-20001213/blitz/vecnorm.cc,weave/blitz-20001213/blitz/vecnorm1.cc,weave/blitz-20001213/blitz/vecpick.cc,weave/blitz-20001213/blitz/vecpick.h,weave/blitz-20001213/blitz/vecpickio.cc,weave/blitz-20001213/blitz/vecpickiter.h,weave/blitz-20001213/blitz/vecsum.cc,weave/blitz-20001213/blitz/vector.cc,weave/blitz-20001213/blitz/vector.h,weave/blitz-20001213/blitz/vecuops.cc,weave/blitz-20001213/blitz/vecwhere.cc,weave/blitz-20001213/blitz/vecwhere.h,weave/blitz-20001213/blitz/wrap-climits.h,weave/blitz-20001213/blitz/zero.cc,weave/blitz-20001213/blitz/zero.h,weave/blitz_info.py,weave/blitz_spec.py,weave/blitz_tools.py,weave/build_tools.py,weave/catalog.py,weave/code_blocks.py,weave/common_info.py,weave/common_spec.py,weave/cxx_info.py,weave/doc/tutorial.html,weave/examples/binary_search.py,weave/examples/cast_copy_transpose.py,weave/examples/dict_sort.py,weave/examples/fibonacci.py,weave/examples/functional.py,weave/examples/increment_example.py,weave/examples/md5_speed.py,weave/examples/print_example.py,weave/examples/py_none.py,weave/examples/support_code_example.py,weave/examples/tuple_return.py,weave/examples/vq.py,weave/examples/wx_example.py,weave/ext_tools.py,weave/inline_info.py,weave/inline_tools.py,weave/lib2def.py,weave/misc.py,weave/scalar_info.py,weave/scalar_spec.py,weave/scxx/PWOBase.h,weave/sequence_spec.py,weave/setup.py,weave/setup_compiler.py,weave/size_check.py,weave/slice_handler.py,weave/standard_array_info.py,weave/standard_array_spec.py,weave/swig_info.py,weave/tests/compiler_test_utils.py,weave/tests/test_ast_tools.py,weave/tests/test_blitz_tools.py,weave/tests/test_build_tools.py,weave/tests/test_catalog.py,weave/tests/test_common_spec.py,weave/tests/test_compile_code.py,weave/tests/test_ext_tools.py,weave/tests/test_scalar_spec.py,weave/tests/test_size_check.py,weave/tests/test_slice_handler.py,weave/tests/test_standard_array_spec.py,weave/tests/test_string_spec.py,weave/tests/test_wx_spec.py,weave/wx_info.py,weave/wx_spec.py
+7161eb8ef2587dea3e8066bf209d0fe715057d0c,"encapsulated all Numeric specific code within a try/except so that most functionality can be used without Numeric installed
+",scipy_test/scipy_test.py,scipy_test/setup_scipy_test.py
+d58a351e8d758523bbfb6d97715004375912d4c5,"Making this a package made installation easier because distutils doesn't allow both py_modules and packages -- not sure it would have worked even if it did
+",scipy_test/__init__.py,scipy_test/setup_scipy_test.py
+dc33f53aacad2c7d6c3552861fb92c3720b17867,"Modified how configuration works
+",scipy_test/setup_scipy_test.py
+07a8c78a393604779d3b1c6a572309f870e0eb74,"setup configuration module for scipy_distutils
+",scipy_distutils/setup_scipy_distutils.py
+77c0f1efc32f1abcb9a0da40ce7afaaeb2673da8,"fftw_info.py holds searches for fftw libraries on a persons machine.  It is made separate from the fftw library because it may be needed by other libraries later on.  Also, it could become useful to other projects trying to find fftw on a mchine.  Its very simple right now.
+",scipy_distutils/fftw_info.py
+9f63f97880bc1a822d2cc21f76ae1b6fce31943f,"get_path changes made by Pearu so that it works in core.run_setup
+",scipy_distutils/misc_util.py
+8d16fd4d21d2d8110523521be1d60f9c9a9cfd7f,"cpuinfo.py is needed to calculate optimzation flags on linux.  It has much of the same functionality as scipy.proc, but I've included it for now.  We'll merge the two later.
+",scipy_distutils/command/cpuinfo.py
+51e5221297c8b013314242025fc039129931fbbd,"Implemented multiple changes provided by Pearu that increased the number of compilers supported, added some optimization flags, and generally cleaned things up.  I made changes needed to get things rolling for scipy on win32 again.  I've included an email exchange discussing changes below:
+
+I changes are checked into CVS.
+
+1. is_available()
+In is_available(), I'm not sure whether any compilers will return an empty version.  I don't think any of them do right now -- but I'm not sure about Sun.  For now, lets use your implementation and deal with it later if it turns out to be a problem.
+
+2. sun compile switches
+class sun_fortran_compiler(fortran_compiler_base):
+
+    vendor = 'Sun'
+    ver_match =  r'f77: (?P<version>[^\s*,]*)'
+
+    def __init__(self, fc = None, f90c = None):
+        ...
+        self.f90_switches = ' -fixed ' # ??? why fixed?
+
+
+I think the fixed is left over from some compiler specific flags I needed in a project at Duke where all of our code was in fixed format.  It probably shouldn't be here.  However, if it isn't, we need a way of specifying the compiler options.  In distutils.extension, there is a
+
+    self.extra_compile_args = extra_compile_args or []
+
+argument.  We need an extra_fcompile_args or something like that.  I think distutils just appends the extra arguments to the end of the compile command.  This is unlikely to work with some Fortran compilers though.  I know the Absoft compiler isn't very sophisticated about handling command line arguments, and any extra args probably need to be placed before the source file in the command.
+
+3. cpu_info.py
+Something very similar to this already exists in scipy -- its called proc.py.  I'll look through it and see how to merge the stuff you added into the module.  This stuff is very OS specific and only works on Linux (and maybe BSD).  I wish proc worked on more machine types.
+
+*Well, for now I'm gonna keep the two separate modules.  We'll merge this stuff into proc in the future.
+
+4. optimization flags
+I've moved this to a get_opt() function.
+
+Also, we should have a flag to turn *on* machine specific optimization instead of making it the
+default.  If people build a binary distibution, it'll only work on specific architectures which can lead to trouble.  This shouldn't be the default behavior.
+
+For now, get_opt() still calls the arch dependent settings by default for the gnu and intel compilers.
+
+5. get_linker_so()
+This won't work on windows with mingw32.  The linker is a very strange thing there, and the -shared flag doesn't work.  I've had to add a little code back into the gnu_fortran class and
+do a test for win32.  I don't think seeting the libraries and library_dir hurts on linux.  Does it?
+
+6. is_available -> get_version
+This is just a better name for it.  is_available is still available... :)  It just calls get_version now.
+
+7. ***  Some vendors provide different compilers for F77 and F90
+        compilations. Currently, checking the availability of these
+        compilers is based on only checking the availability of the
+        corresponding F77 compiler. If it exists, then F90 is assumed
+        to exist also.
+
+This is a problem.  Worse than having different ones, gnu fortran doesn't even support f90.  We may want to split this stuff into separate classes.  I'd like to get more feedback from users running into problems on this one.
+
+see ya,
+eric
+
+----- Original Message -----
+From: ""Pearu Peterson"" <pearu@cens.ioc.ee>
+To: ""eric"" <eric@enthought.com>
+Sent: Monday, December 31, 2001 11:38 AM
+Subject: build_flib patch
+
+
+>
+> Hi Eric,
+>
+> Please find attached my changes to build_flib:
+>
+> *  Added NAGWare, VAST/f90 compilers support.
+> *  Refined Intel compiler support.
+> *  Added more aggressive optimization for Intel and Gnu compilers.
+> *  Added options --fcompiler-exec and --f90compiler-exec.
+> *  The later required some rewrote for compiler classes handling:
+>      Eg. the list all_compilers holds now compiler classes, not their
+>      instances. As a side effect, the handling is more efficient now.
+>      Etc.
+> *  Introduced a new file cpuinfo.py that defines a class for holding
+>    information about CPU. This is used for finding correct optimization
+>    flags for Intel and Gnu compilers. build_flib.py imports it.
+> *  get_f*_files functions recognize other Fortran file extensions as well.
+> *  Docs about bugs.
+> *  Cleaned up the code a bit.
+>
+> Happy New Year!
+> Pearu
+>
+
+-------
+
+> > One thing I noticed.  I think the intel compilers should come before the gnu
+> > compiler in the list so that they are used by default if both are installed.
+> > What do you think?
+>
+> I think the order should not matter. Users should use --fcompiler flag to
+> specify desired compiler. I have fixed this in my local source of
+> scipy_distutils, I'll send it later with other changes.
+
+If we move it up in the list, the default behavior will grab the ""better"" (or at least the commercial) compiler installed on the platform.  I think this is more desirable.  People can still specifiy the gnu compiler with a flag if they want to.  If they have many compilers installed, the flag is the only way to do it that I see.
+
+>
+> But there is one thing that should be addressed as well. And that is if
+> one wants to specify the path to the desired compiler (eg for
+> testing/using different compilers or different versions of the same
+> compiler). For example, on debian there are two F77 compilers, g77 (that
+> is 2.95.2) and g77-3.0. Both are Gnu, and the same class instance should
+> be used. So, to solve this, I can think of many solutions:
+>
+> 1) Get the compiler path from FC environment variable, so that one can run
+>
+>   FC=g77-3.0 ./setup.py build_flib --fcompiler=Gnu build
+>
+> Could this be useful also in Windows? I guess not.
+>
+> 2) Introduce a new switch for build_flib command:
+>
+>   ./setup.py build_flib --fcompiler=Gnu --fcompiler_exec=g77-3.0 build
+>
+
+Doing 2 is fine with me -- and you've already done it I see. :)
+
+eric
+",scipy_distutils/command/build_ext.py,scipy_distutils/command/build_flib.py
+410e5135d72f52969e10d76c3a79813aafb0509f,"changed to using fortran class instead of instance for setting fortran compiler.  This was needed after Pearu's changes.
+",scipy_distutils/mingw32_support.py
+d1d33442a918c2ec4b90dc5f777397e021cd10d1,"removed print statements
+",scipy_distutils/command/sdist.py
+8d4cc5e1967f6b20e69158e5a2700aecc50d46e2,"added default setting so users don't need to supply a dependency list for a package in package_config
+",scipy_distutils/misc_util.py
+806417f9f8b3c3a2414362b0ee69684a7afe58cb,"added package_config method to misc_util that should further simplify the creation of modules that depend on other modules.
+",scipy_distutils/misc_util.py
+b1263a71669aad6b9ac5db8ce961a18c204e925f,"fixed path issues resulting from using setup_xxx.configuration() methods to grab information about package for use in setup.py.  the configuration() methods use absolute path names to identify files.  This is bad for sdist which uses the relative path of a file to determine which directory it goes into in the source distribution.  To solve the problem, I have sdist search all absolute file paths for the ""greatest common directory"" among them.  This directory is removed from them to determine where the file will go in the distribution directories.  Files without absolute paths are always put in the top directory of the distribution.
+
+This procedure usually ends up with a setup.py module in the top directory of the source distribution and then a number of sub-directories that hold the actual package source code files.
+
+misc_util sprouted another function or two to help with the process of adding package paths to the PYTHONPATH.  There are some assumptions made about where distutils should look for these packages (first in the current directory then in the parent) that may not be generally true, but should work well for scipy.  It also results in setup.py files that work fine from with in scipy or for building stand along packages that may depend on other scipy packages.
+",scipy_distutils/command/sdist.py,scipy_distutils/misc_util.py
+76cfe839f027edd48a86112bc8e1490d848d20d0,"added misc_util file that has a few routines used extensively in setup_xxx.py files and test files within scipy
+",scipy_distutils/core.py,scipy_distutils/dist.py,scipy_distutils/mingw32_support.py,scipy_distutils/misc_util.py,scipy_distutils/setup.py
+a76efe8206df0ec315f67012236577c1e31ad258,"added build_py module
+",scipy_distutils/command/build_ext.py,scipy_distutils/command/build_py.py,scipy_distutils/command/install_data.py
+74a4958b94e07b2e3218741fb52d32e87308d62e,"split scipy_test off into its own module.
+",scipy_test/scipy_test.py,scipy_test/setup.py,scipy_test/setup_scipy_test.py
+f1a2d6376c430f65550efa235209b86c1a0967e3,"factored out the scipy specific distutils code into a scipy_distutils package.
+",scipy_distutils/__init__.py,scipy_distutils/command/__init__.py,scipy_distutils/command/build.py,scipy_distutils/command/build_clib.py,scipy_distutils/command/build_ext.py,scipy_distutils/command/build_flib.py,scipy_distutils/command/install.py,scipy_distutils/command/install_data.py,scipy_distutils/command/install_headers.py,scipy_distutils/command/sdist.py,scipy_distutils/core.py,scipy_distutils/dist.py,scipy_distutils/mingw32_support.py,scipy_distutils/setup.py
